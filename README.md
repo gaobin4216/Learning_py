@@ -1,2 +1,3 @@
 # Learning_py
 学习python
+使用conda管理python环境和安装python的三方库
